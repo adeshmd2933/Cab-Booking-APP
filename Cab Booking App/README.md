@@ -9,21 +9,9 @@ Kapsi is a Online Cab Booking Application in Java using Spring Boot with Source 
 Kapsi is restful service for the Cab Booking Application with all neccessary API. This project is developed to allow customers to create a trip, schedule a trip, book a cab for trip, select driver for trip based for driver ratings.
 
 </br></br></br>
-#
-### Team Members 
 
- - Akhil Bawari  |  [Github](https://github.com/akhilbawari)   
- 
- - Jainendra Singh  |  [Github](https://github.com/jainendraoo7)  
- 
- - Sadichchha Naiknavare |  [Github](https://github.com/Sadichchha1998)  
- 
-</br>
 
- - Abhishek D. Patil |  [Github](https://github.com/abhishek-0713) -   Team Lead <!-- Resplonsible for building overall working flow of application. Implemented User Service Layer, validate login service layer. Bug Fixes, Handling Console Errors, All Exceptions Handling. -->
-
-                     
-
+                  
 </br>
 
 ## Modules:
